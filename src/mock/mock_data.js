@@ -83,6 +83,13 @@ export const mockData = {
           "url": "https://cursor.sh",
           "description": "AI代码编辑器",
           "icon": "/sitelogo/cursor.sh.ico"
+        },
+        {
+          "id": "site-1761640535841",
+          "name": "MiniMax",
+          "url": "https://platform.minimaxi.com/docs/guides/text-ai-coding-tools",
+          "description": "",
+          "icon": "https://filecdn.minimax.chat/public/969d635c-cab6-45cc-8d61-47c9fe40c81f.png?x-oss-process=image/format,webp"
         }
       ]
     },
@@ -481,6 +488,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "Zzzzs导航🐱",
-  "_fileSha": "8d7abcaecd8cb14b56158b8dad478a98d00c51d5"
+  "title": "猫猫导航🐱"
 }
