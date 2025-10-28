@@ -507,6 +507,49 @@ export const mockData = {
           "icon": "/sitelogo/www.feishu.cn.ico"
         }
       ]
+    },
+    {
+      "id": "category-1761654548301",
+      "icon": "🌐",
+      "name": "公益站",
+      "order": 6,
+      "sites": [
+        {
+          "id": "site-1761654723047",
+          "name": "Cone",
+          "url": "https://zone.veloera.org/",
+          "description": "需签到获得金额",
+          "icon": "https://zone.veloera.org/logo.png"
+        },
+        {
+          "id": "site-1761654800780",
+          "name": "公益API服务",
+          "url": "https://free-llm.cupsfunny.com/",
+          "description": "需博主同意\nhttps://www.cups.moe/archives/free-llm-api.html/comment-page-1#comment-1405",
+          "icon": "https://free-llm.cupsfunny.com/logo.png"
+        },
+        {
+          "id": "site-1761654851624",
+          "name": "/anyrouter",
+          "url": "https://anyrouter.top/",
+          "description": "需代理，每天签到",
+          "icon": "https://free-llm.cupsfunny.com/logo.png"
+        },
+        {
+          "id": "site-1761654976040",
+          "name": "KYX API",
+          "url": "https://api.kkyyxx.xyz/",
+          "description": "https://quota.kyx03.de/  签到",
+          "icon": "https://lh3.googleusercontent.com/a/ACg8ocJmyq3J-RuNfGv7J430fFiZ6EYQ0AB_phVlIPwm265e9HC1vJc=s288-c-no"
+        },
+        {
+          "id": "site-1761655090278",
+          "name": "薄荷 API",
+          "url": "https://x666.me/",
+          "description": "",
+          "icon": "https://i.111666.best/image/UQ3YrIrF59JZfaEFGJabrr.png"
+        }
+      ]
     }
   ],
   "title": "猫猫导航🐱"
