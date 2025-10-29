@@ -90,6 +90,13 @@ export const mockData = {
           "url": "https://platform.minimaxi.com/docs/guides/text-ai-coding-tools",
           "description": "",
           "icon": "https://platform.minimaxi.com/favicon.ico"
+        },
+        {
+          "id": "site-1761725671678",
+          "name": "CTO",
+          "url": "https://cto.new/",
+          "description": "",
+          "icon": "https://cto.new/favicon.ico"
         }
       ]
     },
