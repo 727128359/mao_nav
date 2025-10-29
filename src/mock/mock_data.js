@@ -548,6 +548,13 @@ export const mockData = {
           "url": "https://x666.me/",
           "description": "",
           "icon": "https://i.111666.best/image/UQ3YrIrF59JZfaEFGJabrr.png"
+        },
+        {
+          "id": "site-1761703002533",
+          "name": "智能节点订阅链接管理器",
+          "url": "https://cc.freegpts.eu.org/",
+          "description": "clash节点",
+          "icon": ""
         }
       ]
     }
