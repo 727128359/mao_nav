@@ -562,6 +562,13 @@ export const mockData = {
           "url": "https://cc.freegpts.eu.org/",
           "description": "clash节点",
           "icon": ""
+        },
+        {
+          "id": "site-1761784787411",
+          "name": "ThatAPI",
+          "url": "https://gyapi.zxiaoruan.cn/",
+          "description": "签到，公益站点，claude",
+          "icon": "https://gyapi.zxiaoruan.cn/logo.png"
         }
       ]
     }
