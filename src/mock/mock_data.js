@@ -103,6 +103,34 @@ export const mockData = {
           "url": "https://cto.new/",
           "description": "",
           "icon": "https://cto.new/favicon.ico"
+        },
+        {
+          "id": "site-1765267549403",
+          "name": "豆包",
+          "url": "https://www.doubao.com/chat/",
+          "description": "",
+          "icon": "https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/samantha/logo-icon-white-bg.png"
+        },
+        {
+          "id": "site-1765267586298",
+          "name": "Kimi",
+          "url": "https://www.kimi.com/",
+          "description": "",
+          "icon": "https://statics.moonshot.cn/kimi-web-seo/favicon.ico"
+        },
+        {
+          "id": "site-1765267672102",
+          "name": "通义千问",
+          "url": "https://www.qianwen.com/",
+          "description": "",
+          "icon": "https://img.alicdn.com/imgextra/i2/O1CN01FPcQDy1WTPjPX6IH9_!!6000000002789-2-tps-96-96.png"
+        },
+        {
+          "id": "site-1765267796949",
+          "name": "Gemini",
+          "url": "https://gemini.google.com/",
+          "description": "需翻墙",
+          "icon": ""
         }
       ]
     },
@@ -481,7 +509,7 @@ export const mockData = {
           "name": "poe图书馆",
           "url": "https://poelib.com/",
           "description": "",
-          "icon": "https://poelib.com/"
+          "icon": "https://poelib.com/favicon.svg"
         },
         {
           "id": "site-1765266912065",
