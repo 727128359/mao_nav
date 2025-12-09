@@ -40,6 +40,12 @@ export const mockData = {
           "url": "https://curlconverter.com/",
           "description": "curl命令转换工具",
           "icon": "/sitelogo/curlconverter.com.ico"
+        },
+        {
+          "id": "site-1765266457399",
+          "name": "Gemini",
+          "url": "https://gemini.google.com/",
+          "description": "谷歌AI"
         }
       ]
     },
@@ -573,7 +579,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "Zzzzs导航",
-  "_fileSha": "b057ccfeb19ccfd06425fae8f5ef5df140d1de29",
-  "search": "baidu"
+  "title": "Zzzzs导航"
 }
