@@ -631,6 +631,13 @@ export const mockData = {
           "url": "https://gyapi.zxiaoruan.cn/",
           "description": "签到，公益站点，claude",
           "icon": "https://gyapi.zxiaoruan.cn/logo.png"
+        },
+        {
+          "id": "site-1765272840398",
+          "name": "订阅管理",
+          "url": "https://dy.linuxzs.top/",
+          "description": "",
+          "icon": ""
         }
       ]
     }
