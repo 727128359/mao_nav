@@ -482,6 +482,34 @@ export const mockData = {
           "url": "https://poelib.com/",
           "description": "",
           "icon": "https://poelib.com/"
+        },
+        {
+          "id": "site-1765266912065",
+          "name": "LIBVIO",
+          "url": "https://www.libvio.cc/",
+          "description": "电影",
+          "icon": "https://www.libvio.cc/statics/img/favicon.ico"
+        },
+        {
+          "id": "site-1765266963225",
+          "name": "一刻电影",
+          "url": "https://www.yikedy.cc/",
+          "description": "一刻电影",
+          "icon": "https://www.yikedy.cc/favicon.ico"
+        },
+        {
+          "id": "site-1765267103257",
+          "name": "毒舌电影",
+          "url": "https://www.duse2.com/",
+          "description": "电影",
+          "icon": "https://vf.zclmjc.com/vod_pc_static_ds91/images/favicon.ico?ver=ggewasd"
+        },
+        {
+          "id": "site-1765267312483",
+          "name": "百思派电影",
+          "url": "https://www.bestpipe.cn/",
+          "description": "",
+          "icon": "https://thbfsdb4v.8wkfn5.cn/template/jianbai/statics/img/favicon.ico"
         }
       ]
     },
