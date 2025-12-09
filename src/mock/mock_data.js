@@ -645,6 +645,13 @@ export const mockData = {
           "url": "https://529961.com/",
           "description": "公益站、签到",
           "icon": "https://529961.com/logo.png"
+        },
+        {
+          "id": "site-1765274013212",
+          "name": "我爱996签到站",
+          "url": "https://hub.529961.com/",
+          "description": "",
+          "icon": ""
         }
       ]
     }
