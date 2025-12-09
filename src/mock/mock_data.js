@@ -638,6 +638,13 @@ export const mockData = {
           "url": "https://dy.linuxzs.top/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1765273848861",
+          "name": "我爱996",
+          "url": "https://529961.com/",
+          "description": "公益站、签到",
+          "icon": "https://529961.com/logo.png"
         }
       ]
     }
